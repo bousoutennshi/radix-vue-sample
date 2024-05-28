@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import Popover from './components/Popover.vue'
-import Switch from './components/Switch.vue'
-import Tags from './components/Tags.vue'
+import Popover from "./components/Popover.vue";
+import Switch from "./components/Switch.vue";
+import Tags from "./components/Tags.vue";
 </script>
 
 <template>

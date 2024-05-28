@@ -1,4 +1,4 @@
-@import '@radix-ui/colors/black-alpha.css';
+@import "@radix-ui/colors/black-alpha.css";
 
 /* reset */
 button {
@@ -17,7 +17,7 @@ button {
 .SwitchRoot:focus {
   box-shadow: 0 0 0 2px black;
 }
-.SwitchRoot[data-state='checked'] {
+.SwitchRoot[data-state="checked"] {
   background-color: black;
 }
 
@@ -32,7 +32,7 @@ button {
   transform: translateX(2px);
   will-change: transform;
 }
-.SwitchThumb[data-state='checked'] {
+.SwitchThumb[data-state="checked"] {
   transform: translateX(19px);
 }
 
